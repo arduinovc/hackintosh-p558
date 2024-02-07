@@ -18,7 +18,7 @@ MacOS version: __Sonoma 14.3__
 | Type	| Name                   |
 |:------|:-----------------------|
 | CPU	| Intel i3 8100 |
-| RAM	| 2xDDR3 1600MHz - 8Gb |
+| RAM	| 2xDDR4 2444MHz - 8Gb |
 | GPU	| Intel UHD630 |
 | Drive	| SATA SSD 1000 Gb |
 | Sound card	| Realtek ALC671 |
