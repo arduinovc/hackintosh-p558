@@ -6,12 +6,12 @@ Last update: February 5th 2024
 ## Description
 
 EFI files based on OpenCore  
-OpenCore version: 0.9.7  
+OpenCore version: 0.9.8  
 MacOS version: __Sonoma 14.3__
 
 ## Hardware
 
-**Desktop Fujitsu Esprimo P420**  
+**Desktop Fujitsu Esprimo P558**  
 ![Fujitsu P558  ](/Assets/FujitsuP558.jpeg "Fujitsu P558")
 
 
@@ -34,13 +34,9 @@ System Serial : <Serial_Number>
 ## Working and Not-Working
 
 ### Working
-WIFI : ok with externe USB dongle  
-GPU : ok  
-Sleep/Wake : ok    
-Shutdown/Restart : ok  
-USB Port : ok  
-Sound : ok     
-HDMI : ok  
+
+### Not-Working
+Never boot at the moment due to AHCI error. Fixing it.  
 
 ## Screenshots
 Need update
