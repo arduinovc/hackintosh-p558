@@ -13,8 +13,7 @@ MacOS version: __Sonoma 14.3__
 
 **Desktop Fujitsu Esprimo P558**  
 ![Fujitsu P558  ](/Assets/FujitsuP558.png "Fujitsu P558")  
-Datasheet  
-[Datasheet](/Assets/Fujitsu-ESPRIMO-P558-E85-Datasheet.pdf)  
+[Datasheet P558](/Assets/Fujitsu-ESPRIMO-P558-E85-Datasheet.pdf)  
 
 | Type	| Name                   |
 |:------|:-----------------------|
