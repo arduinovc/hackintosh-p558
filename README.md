@@ -1,7 +1,7 @@
 # Hackintosh-p558
 
 EFI boot folder based on OpenCore for Fujitsu P558/E85+  
-Last update: February 5th 2024  
+Last update: February 7th 2024  
 
 ## Description
 
@@ -14,6 +14,7 @@ MacOS version: __Sonoma 14.3__
 **Desktop Fujitsu Esprimo P558**  
 ![Fujitsu P558  ](/Assets/FujitsuP558.png "Fujitsu P558")  
 [Datasheet P558](/Assets/Fujitsu-ESPRIMO-P558-E85-Datasheet.pdf)  
+[Datasheet D3600 Motherboard](/Assets/Fujitsu-ESPRIMO-P558-E85-Datasheet.pdf)  
 
 | Type	| Name                   |
 |:------|:-----------------------|
