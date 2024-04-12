@@ -1,7 +1,7 @@
 # Hackintosh-p558
 
 EFI boot folder based on OpenCore for Fujitsu P558/E85+  
-Last update: February 9th 2024  
+Last update: April 12th 2024  
 
 ## Description
 
@@ -37,11 +37,11 @@ System Serial : <Serial_Number>
 ### Working
 
 ### Not-Working
-Never boot at the moment due to AHCI error. Fixed !  
+Never boot at the moment due to ACPI error. Fixed on march !  
 But no iGPU support with UHD630. Need framebuffer BusID patch.    
 
 ## Screenshots
-Need update
+Need update. 
 
 ## Credit
-Based on my previous P420 https://github.com/arduinovc/hackintosh-p420
+Based on my previous P420 https://github.com/arduinovc/hackintosh-p420  
