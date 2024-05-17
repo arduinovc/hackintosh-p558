@@ -1,7 +1,9 @@
 # Hackintosh-p558
 
 EFI boot folder based on OpenCore for Fujitsu P558/E85+  
-Last update: April 12th 2024  
+Last update: May 17th 2024  
+
+/!\ WARNING = Project in standby. No futur update planned.
 
 ## Description
 
